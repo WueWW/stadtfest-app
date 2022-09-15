@@ -9,7 +9,7 @@ module.exports = isProdBuild => {
 
         runtimeCaching: [
             {
-                urlPattern: 'https://backend.timetable.wueww.de/export/session.json',
+                urlPattern: 'https://wueww.github.io/stadtfest-app/programm-2022.json',
                 handler: 'StaleWhileRevalidate',
                 options: {
                     broadcastUpdate: { channelName: 'session-updates' },
