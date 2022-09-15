@@ -3,14 +3,20 @@ import { Header } from 'semantic-ui-react';
 
 const InfoPage: FunctionComponent = () => (
     <div>
-        <p>Schön, dass du die WueWW Fahrplan App benutzt :-)</p>
+        <p>
+            Schön, dass du die <del>WueWW Fahrplan</del> Stadtfest App benutzt :-)
+        </p>
+        <p>
+            ... erwarte bitte nicht zu viel. Das Ding ist spontan in ein paar Minuten in der Nacht vor dem Stadtfest
+            anstanden. Aber sag bescheid, wenn's nützlich war. Vielleicht gibt's das dann zukünftig in ernsthafter.
+        </p>
         <p>
             Lob, Kritik &amp; Verbesserungsvorschläge kannst du gerne{' '}
             <a href="https://github.com/WueWW/fahrplan-app/issues">im Issue-Tracker auf GitHub</a> anbringen.
         </p>
         <p>
-            Bei der WueWW Fahrplan App handelt es sich um eine <em>Progressive Web App</em>. Soll heißen, du kannst
-            diese auf deinem Handy zum Startbildschirm hinzufügen und auch offline verwenden.
+            Bei der <del>WueWW Fahrplan</del> Stadtfest App handelt es sich um eine <em>Progressive Web App</em>. Soll
+            heißen, du kannst diese auf deinem Handy zum Startbildschirm hinzufügen und auch offline verwenden.
         </p>
 
         <Header>Bedienungshinweise</Header>
