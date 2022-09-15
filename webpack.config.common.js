@@ -48,7 +48,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: 'WueWW App',
+            title: 'Stadtfest App',
             template: './public/index.html',
         }),
         new MiniCssExtractPlugin({
