@@ -5,7 +5,6 @@
             "start": "2022-09-16T15:00:00+02:00",
             "end": "2022-09-16T16:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -16,7 +15,6 @@
             "start": "2022-09-16T15:00:00+02:00",
             "end": "2022-09-16T17:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Frizz/WVV-Bühne"
             },
@@ -27,7 +25,6 @@
             "start": "2022-09-16T15:00:00+02:00",
             "end": "2022-09-16T16:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -41,7 +38,6 @@
             "start": "2022-09-16T15:05:00+02:00",
             "end": "2022-09-16T16:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -52,7 +48,6 @@
             "start": "2022-09-16T16:00:00+02:00",
             "end": "2022-09-16T16:45:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -63,7 +58,6 @@
             "start": "2022-09-16T16:00:00+02:00",
             "end": "2022-09-16T22:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Musikprogramm Ulmer Hof"
             },
@@ -74,7 +68,6 @@
             "start": "2022-09-16T16:30:00+02:00",
             "end": "2022-09-16T17:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -85,7 +78,6 @@
             "start": "2022-09-16T16:30:00+02:00",
             "end": "2022-09-16T17:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -96,7 +88,6 @@
             "start": "2022-09-16T16:45:00+02:00",
             "end": "2022-09-16T17:45:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -110,7 +101,6 @@
             "start": "2022-09-16T17:00:00+02:00",
             "end": "2022-09-16T18:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -121,7 +111,6 @@
             "start": "2022-09-16T17:00:00+02:00",
             "end": "2022-09-16T22:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Musikprogramm Alte Mainbrücke"
             },
@@ -132,7 +121,6 @@
             "start": "2022-09-16T17:30:00+02:00",
             "end": "2022-09-16T19:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Frizz/WVV-Bühne"
             },
@@ -143,7 +131,6 @@
             "start": "2022-09-16T18:00:00+02:00",
             "end": "2022-09-16T18:15:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -154,7 +141,6 @@
             "start": "2022-09-16T18:00:00+02:00",
             "end": "2022-09-16T19:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -165,7 +151,6 @@
             "start": "2022-09-16T18:00:00+02:00",
             "end": "2022-09-16T19:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Sternbäck-Bühne"
             },
@@ -176,7 +161,6 @@
             "start": "2022-09-16T18:30:00+02:00",
             "end": "2022-09-16T19:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -190,7 +174,6 @@
             "start": "2022-09-16T18:30:00+02:00",
             "end": "2022-09-16T20:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -201,7 +184,6 @@
             "start": "2022-09-16T20:00:00+02:00",
             "end": "2022-09-16T22:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -212,7 +194,6 @@
             "start": "2022-09-16T20:00:00+02:00",
             "end": "2022-09-16T22:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Sternbäck-Bühne"
             },
@@ -223,7 +204,6 @@
             "start": "2022-09-16T20:00:00+02:00",
             "end": "2022-09-16T22:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Frizz/WVV-Bühne"
             },
@@ -234,7 +214,6 @@
             "start": "2022-09-16T20:00:00+02:00",
             "end": "2022-09-16T22:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -245,7 +224,6 @@
             "start": "2022-09-16T20:00:00+02:00",
             "end": "2022-09-16T23:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -256,7 +234,6 @@
             "start": "2022-09-16T22:00:00+02:00",
             "end": "2022-09-16T23:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Frizz/WVV-Bühne"
             },
@@ -267,7 +244,6 @@
             "start": "2022-09-16T22:15:00+02:00",
             "end": "2022-09-16T23:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -281,7 +257,6 @@
             "start": "2022-09-16T22:15:00+02:00",
             "end": "2022-09-16T23:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -292,7 +267,6 @@
             "start": "2022-09-17T10:00:00+02:00",
             "end": "2022-09-17T11:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -303,7 +277,6 @@
             "start": "2022-09-17T10:00:00+02:00",
             "end": "2022-09-17T12:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Frizz/WVV-Bühne"
             },
@@ -314,7 +287,6 @@
             "start": "2022-09-17T10:00:00+02:00",
             "end": "2022-09-17T12:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -325,7 +297,6 @@
             "start": "2022-09-17T10:00:00+02:00",
             "end": "2022-09-17T11:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -336,7 +307,6 @@
             "start": "2022-09-17T10:00:00+02:00",
             "end": "2022-09-17T13:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Musikprogramm Ulmer Hof"
             },
@@ -347,7 +317,6 @@
             "start": "2022-09-17T10:30:00+02:00",
             "end": "2022-09-17T10:40:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -358,7 +327,6 @@
             "start": "2022-09-17T10:40:00+02:00",
             "end": "2022-09-17T11:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -369,7 +337,6 @@
             "start": "2022-09-17T11:00:00+02:00",
             "end": "2022-09-17T11:25:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -380,7 +347,6 @@
             "start": "2022-09-17T11:00:00+02:00",
             "end": "2022-09-17T11:10:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -391,7 +357,6 @@
             "start": "2022-09-17T11:10:00+02:00",
             "end": "2022-09-17T11:20:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -402,7 +367,6 @@
             "start": "2022-09-17T11:20:00+02:00",
             "end": "2022-09-17T11:35:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -413,7 +377,6 @@
             "start": "2022-09-17T11:25:00+02:00",
             "end": "2022-09-17T11:40:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -424,7 +387,6 @@
             "start": "2022-09-17T11:30:00+02:00",
             "end": "2022-09-17T12:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -435,7 +397,6 @@
             "start": "2022-09-17T11:30:00+02:00",
             "end": "2022-09-17T12:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -446,7 +407,6 @@
             "start": "2022-09-17T11:35:00+02:00",
             "end": "2022-09-17T11:45:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -457,7 +417,6 @@
             "start": "2022-09-17T11:40:00+02:00",
             "end": "2022-09-17T12:05:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -468,7 +427,6 @@
             "start": "2022-09-17T11:45:00+02:00",
             "end": "2022-09-17T11:55:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -479,7 +437,6 @@
             "start": "2022-09-17T11:55:00+02:00",
             "end": "2022-09-17T12:10:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -490,7 +447,6 @@
             "start": "2022-09-17T12:00:00+02:00",
             "end": "2022-09-17T12:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -501,7 +457,6 @@
             "start": "2022-09-17T12:00:00+02:00",
             "end": "2022-09-17T23:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Musikprogramm Alte Mainbrücke"
             },
@@ -512,7 +467,6 @@
             "start": "2022-09-17T12:05:00+02:00",
             "end": "2022-09-17T13:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -523,7 +477,6 @@
             "start": "2022-09-17T12:10:00+02:00",
             "end": "2022-09-17T12:20:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -534,7 +487,6 @@
             "start": "2022-09-17T12:20:00+02:00",
             "end": "2022-09-17T12:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -545,7 +497,6 @@
             "start": "2022-09-17T12:30:00+02:00",
             "end": "2022-09-17T12:45:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -556,7 +507,6 @@
             "start": "2022-09-17T12:30:00+02:00",
             "end": "2022-09-17T13:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -567,7 +517,6 @@
             "start": "2022-09-17T12:30:00+02:00",
             "end": "2022-09-17T14:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Frizz/WVV-Bühne"
             },
@@ -578,7 +527,6 @@
             "start": "2022-09-17T13:00:00+02:00",
             "end": "2022-09-17T13:45:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -592,7 +540,6 @@
             "start": "2022-09-17T14:00:00+02:00",
             "end": "2022-09-17T14:45:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -603,7 +550,6 @@
             "start": "2022-09-17T15:00:00+02:00",
             "end": "2022-09-17T15:45:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -617,7 +563,6 @@
             "start": "2022-09-17T16:00:00+02:00",
             "end": "2022-09-17T16:45:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -628,7 +573,6 @@
             "start": "2022-09-17T17:00:00+02:00",
             "end": "2022-09-17T17:45:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -642,7 +586,6 @@
             "start": "2022-09-17T18:30:00+02:00",
             "end": "2022-09-17T19:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -656,7 +599,6 @@
             "start": "2022-09-17T20:00:00+02:00",
             "end": "2022-09-17T21:45:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -670,7 +612,6 @@
             "start": "2022-09-17T22:15:00+02:00",
             "end": "2022-09-17T23:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -684,7 +625,6 @@
             "start": "2022-09-17T12:45:00+02:00",
             "end": "2022-09-17T12:50:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Posthallen-Bühne"
             },
@@ -695,7 +635,6 @@
             "start": "2022-09-17T13:00:00+02:00",
             "end": "2022-09-17T13:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -706,7 +645,6 @@
             "start": "2022-09-17T13:00:00+02:00",
             "end": "2022-09-17T13:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -717,7 +655,6 @@
             "start": "2022-09-17T13:00:00+02:00",
             "end": "2022-09-17T15:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Musikprogramm Ulmer Hof"
             },
@@ -728,7 +665,6 @@
             "start": "2022-09-17T13:30:00+02:00",
             "end": "2022-09-17T14:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -739,7 +675,6 @@
             "start": "2022-09-17T13:30:00+02:00",
             "end": "2022-09-17T14:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -750,7 +685,6 @@
             "start": "2022-09-17T13:30:00+02:00",
             "end": "2022-09-17T13:50:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -761,7 +695,6 @@
             "start": "2022-09-17T13:50:00+02:00",
             "end": "2022-09-17T14:20:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -772,7 +705,6 @@
             "start": "2022-09-17T14:20:00+02:00",
             "end": "2022-09-17T14:50:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -783,7 +715,6 @@
             "start": "2022-09-17T14:30:00+02:00",
             "end": "2022-09-17T15:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -794,7 +725,6 @@
             "start": "2022-09-17T14:30:00+02:00",
             "end": "2022-09-17T16:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -805,7 +735,6 @@
             "start": "2022-09-17T14:50:00+02:00",
             "end": "2022-09-17T15:10:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -816,7 +745,6 @@
             "start": "2022-09-17T15:00:00+02:00",
             "end": "2022-09-17T15:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -827,7 +755,6 @@
             "start": "2022-09-17T15:00:00+02:00",
             "end": "2022-09-17T17:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Frizz/WVV-Bühne"
             },
@@ -838,7 +765,6 @@
             "start": "2022-09-17T15:10:00+02:00",
             "end": "2022-09-17T15:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -849,7 +775,6 @@
             "start": "2022-09-17T15:30:00+02:00",
             "end": "2022-09-17T16:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -860,7 +785,6 @@
             "start": "2022-09-17T15:30:00+02:00",
             "end": "2022-09-17T16:45:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -871,7 +795,6 @@
             "start": "2022-09-17T16:00:00+02:00",
             "end": "2022-09-17T16:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -882,7 +805,6 @@
             "start": "2022-09-17T16:00:00+02:00",
             "end": "2022-09-17T17:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Musikprogramm Ulmer Hof"
             },
@@ -893,7 +815,6 @@
             "start": "2022-09-17T16:30:00+02:00",
             "end": "2022-09-17T17:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -904,7 +825,6 @@
             "start": "2022-09-17T16:30:00+02:00",
             "end": "2022-09-17T17:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -915,7 +835,6 @@
             "start": "2022-09-17T17:00:00+02:00",
             "end": "2022-09-17T17:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -926,7 +845,6 @@
             "start": "2022-09-17T17:00:00+02:00",
             "end": "2022-09-17T18:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -937,7 +855,6 @@
             "start": "2022-09-17T17:00:00+02:00",
             "end": "2022-09-17T22:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Musikprogramm Ulmer Hof"
             },
@@ -948,7 +865,6 @@
             "start": "2022-09-17T17:30:00+02:00",
             "end": "2022-09-17T18:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -959,7 +875,6 @@
             "start": "2022-09-17T17:30:00+02:00",
             "end": "2022-09-17T19:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Sternbäck-Bühne"
             },
@@ -970,7 +885,6 @@
             "start": "2022-09-17T17:30:00+02:00",
             "end": "2022-09-17T19:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Frizz/WVV-Bühne"
             },
@@ -981,7 +895,6 @@
             "start": "2022-09-17T18:00:00+02:00",
             "end": "2022-09-17T18:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -992,7 +905,6 @@
             "start": "2022-09-17T18:00:00+02:00",
             "end": "2022-09-17T19:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -1003,7 +915,6 @@
             "start": "2022-09-17T18:30:00+02:00",
             "end": "2022-09-17T19:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -1014,7 +925,6 @@
             "start": "2022-09-17T18:30:00+02:00",
             "end": "2022-09-17T19:30:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bahnhoftsfest"
             },
@@ -1025,7 +935,6 @@
             "start": "2022-09-17T19:00:00+02:00",
             "end": "2022-09-17T20:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -1036,7 +945,6 @@
             "start": "2022-09-17T20:00:00+02:00",
             "end": "2022-09-17T22:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Frizz/WVV-Bühne"
             },
@@ -1047,7 +955,6 @@
             "start": "2022-09-17T20:00:00+02:00",
             "end": "2022-09-17T22:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
@@ -1058,7 +965,6 @@
             "start": "2022-09-17T20:00:00+02:00",
             "end": "2022-09-17T23:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "TV Mainfranken-Bühne"
             },
@@ -1069,7 +975,6 @@
             "start": "2022-09-17T20:00:00+02:00",
             "end": "2022-09-17T23:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Sternbäck-Bühne"
             },
@@ -1080,7 +985,6 @@
             "start": "2022-09-17T22:00:00+02:00",
             "end": "2022-09-17T23:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Frizz/WVV-Bühne"
             },
@@ -1091,7 +995,6 @@
             "start": "2022-09-17T22:15:00+02:00",
             "end": "2022-09-17T23:00:00+02:00",
             "cancelled": false,
-            "onlineOnly": false,
             "location": {
                 "name": "Bühne des Dachverbands freier Würzburger Kulturträger"
             },
