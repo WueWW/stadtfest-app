@@ -16,7 +16,7 @@ import SessionViewer from './page/SessionViewer';
 
 export interface Props {}
 
-const SESSION_DATA_URL = '/programm-2022.json';
+const SESSION_DATA_URL = 'programm-2022.json';
 const updatesChannel = typeof BroadcastChannel !== 'undefined' && new BroadcastChannel('session-updates');
 
 const PageToggleWithRouter = withRouter(PageToggleButton);
