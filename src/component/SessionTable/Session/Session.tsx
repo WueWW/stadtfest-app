@@ -21,19 +21,12 @@ function formatTime(dt: string): string {
 }
 
 const Session = (props: Props) => {
-    const [expanded, setExpanded] = useState(false);
-
     return (
         <Card className={props.cancelled ? 'cancelled' : undefined}>
             <Card.Content>
-                <Card.Header onClick={() => setExpanded(!expanded)} style={{ cursor: 'pointer' }}>
-                    <span className="right floated">
-                        <Icon name={expanded ? 'chevron down' : 'chevron right'} />
-                    </span>
-                    {props.title}
-                </Card.Header>
+                <Card.Header style={{ cursor: 'pointer' }}>{props.title}</Card.Header>
             </Card.Content>
-            {expanded && props.cancelled && (
+            {props.cancelled && (
                 <Card.Content extra>
                     <Card.Description>
                         <Label color="red">
@@ -42,14 +35,14 @@ const Session = (props: Props) => {
                     </Card.Description>
                 </Card.Content>
             )}
-            {expanded && !props.cancelled && props.description?.short && (
+            {!props.cancelled && props.description?.short && (
                 <Card.Content>
                     <Card.Description>
                         <p>{props.description.short}</p>
                     </Card.Description>
                 </Card.Content>
             )}
-            {expanded && !props.cancelled && <LocationBlock location={props.location} />}
+            {!props.cancelled && <LocationBlock location={props.location} />}
 
             <Card.Content extra>
                 {(props.isFavorite || !props.cancelled) && (
