@@ -13,6 +13,10 @@ module.exports = merge(common, {
                 from: 'public/assets',
                 to: 'assets',
             },
+            {
+                from: 'public/programm-2022.json',
+                to: 'programm-2022.json',
+            },
         ]),
         serviceWorkerConfig(true),
     ],
