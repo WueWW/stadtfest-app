@@ -1,9 +1,7 @@
 import 'react-semantic-toasts/styles/react-semantic-alert.css';
 
 import React, { Component, Fragment } from 'react';
-import {
-    HashRouter as Router, Route, RouteComponentProps, Switch, withRouter
-} from 'react-router-dom';
+import { HashRouter as Router, Route, RouteComponentProps, Switch, withRouter } from 'react-router-dom';
 import { SemanticToastContainer, toast } from 'react-semantic-toasts';
 
 import FavManager from './component/FavManager';
@@ -18,7 +16,7 @@ import SessionViewer from './page/SessionViewer';
 
 export interface Props {}
 
-const SESSION_DATA_URL = 'https://backend.timetable.wueww.de/export/session.json';
+const SESSION_DATA_URL = '/programm-2022.json';
 const updatesChannel = typeof BroadcastChannel !== 'undefined' && new BroadcastChannel('session-updates');
 
 const PageToggleWithRouter = withRouter(PageToggleButton);

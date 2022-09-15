@@ -3,23 +3,16 @@ import icalGenerator from 'ical-generator';
 import { SessionList } from '../model/Session';
 
 const generateIcal = (sessions: SessionList): string => {
-    const cal = icalGenerator({ domain: 'app.wueww.de', name: 'WueWW Favoriten' });
+    const cal = icalGenerator({ domain: 'app.stadtfest.metafnord.de', name: 'Stadtfest Favoriten' });
 
     sessions.forEach(session =>
         cal.createEvent({
-            uid: `WUEWW-2020-${session.id}`,
+            uid: `SF22-${session.id}`,
             start: new Date(session.start),
             end: session.end ? new Date(session.end) : undefined,
             summary: session.title,
-            description: session.description && session.description.long,
+            description: session.description && session.description.short,
             location: session.location && session.location.name,
-            geo:
-                session.location && session.location.lat !== undefined && session.location.lng !== undefined
-                    ? {
-                          lat: session.location.lat,
-                          lon: session.location.lng,
-                      }
-                    : undefined,
         })
     );
 

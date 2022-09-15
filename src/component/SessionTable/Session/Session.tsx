@@ -5,7 +5,6 @@ import { Card, Icon, Label } from 'semantic-ui-react';
 
 import { Session as SessionType } from '../../../model/Session';
 import LocationBlock from './LocationBlock';
-import SessionDescription from './SessionDescription';
 import EventLinkIcon from './EventLinkIcon';
 
 export interface Props extends SessionType {
@@ -33,7 +32,6 @@ const Session = (props: Props) => {
                     </span>
                     {props.title}
                 </Card.Header>
-                <Card.Meta>{props.host.name}</Card.Meta>
             </Card.Content>
             {expanded && props.cancelled && (
                 <Card.Content extra>
@@ -44,7 +42,13 @@ const Session = (props: Props) => {
                     </Card.Description>
                 </Card.Content>
             )}
-            {expanded && !props.cancelled && <SessionDescription description={props.description} />}
+            {expanded && !props.cancelled && props.description?.short && (
+                <Card.Content>
+                    <Card.Description>
+                        <p>{props.description.short}</p>
+                    </Card.Description>
+                </Card.Content>
+            )}
             {expanded && !props.cancelled && <LocationBlock location={props.location} />}
 
             <Card.Content extra>
